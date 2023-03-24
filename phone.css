@@ -1,0 +1,39 @@
+@media screen and (max-width:600px) {
+    #giant #one {
+    color: red;
+    text-decoration: underline;
+    background-color: red;
+}
+.tot {
+    font-size: large;
+    margin-left: 10px;
+    
+}
+.deve {
+    font-size: large;
+    margin-left: 10px;
+}
+.orange {
+    border: 1px solid black;
+    width: 39vw;
+    margin-left: 50px;
+    height: 80px;
+    margin-top: 60px;
+    
+}
+table, tr, td {
+    margin-top: 60px;
+    border: 1px solid red;
+    border-collapse: collapse;
+    width: 90vw;
+    border: 5px;
+    text-decoration: underline;
+    height: 50px;
+    background-color: wheat;
+}
+ul {
+    margin-left: 550px;
+    background-color: red;
+    display: none;
+}
+}

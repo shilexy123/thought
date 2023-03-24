@@ -1,0 +1,334 @@
+.nav {
+    display: flex;
+    background-color: white;
+    border-bottom: 2px solid white;
+    width: 100%;
+    height: 40px;
+    padding: 5px 20px 0px 20px;
+    margin-top: 1px;
+}
+ul {
+    margin-left: 550px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: red;
+    
+}
+
+button {
+    background-color: red;
+    width: 130px;
+    height: 40px;
+}
+li {
+    display: inline;
+    margin-right: 40px;
+}
+.nav p a{
+    color: red;
+    /* font-size: 20px; */
+    /* margin-bottom: 15px; */
+}
+h1 {
+    text-align: center;
+}
+section {
+    width: 50vw;
+    margin: auto;
+    font-size: xx-large;
+    margin-top: 70px;
+    
+}
+/* * {
+    background-color: palegreen; */
+/* }
+section a {
+    color: aqua; */
+
+#giant #one {
+    color: red;
+    text-decoration: underline;
+}
+.tot {
+    font-size: large;
+    margin-left: 100px;
+}
+.deve {
+    font-size: large;
+    margin-left: 100px;
+}
+#one {
+    color: red;
+    text-decoration: underline;
+}
+#two {
+    color: black;
+}
+
+ h4:hover {
+   color: orangered; 
+}
+#three {
+    color: red;
+}
+#four {
+    color: red;
+}
+#five {
+    color: black;
+}
+#six {
+    color: red;
+}
+#seven {
+    color: red;
+}
+#eight {
+    color: red;
+}
+.one {
+    color: red;
+}
+.two {
+    color: red;
+}
+
+.three {
+    color: black;
+}
+.four {
+    color: red;
+}
+.five {
+    color: red;
+}
+.six {
+    color: red;
+}
+.major .one {
+    color: black;
+    font-size: xx-large;
+}
+ 
+ h4 .one:hover {
+    color: orange;
+}
+.major {
+    font-size: x-large;
+}
+.major .two {
+    color: red;
+}
+.major .three {
+    color: red;
+}
+.major .four {
+    color: red;
+}
+.manual {
+    font-size: xx-large;
+}
+.manual .one {
+    color: black;
+}
+/* h4 .manual .one:hover {
+    color: blue; */
+
+.manual .two {
+    color: red;
+}
+.manual .three {
+    color: red;
+}
+
+.case {
+    font-size: xx-large;
+}
+.case .one {
+    color: black;
+}
+h4 .one:hover {
+    color: orangered;
+}
+.dash {
+    font-size: xx-large;
+}
+.dash .one {
+    color: black;
+}
+.dash .two {
+    color: black;
+}
+.dash h4 :hover {
+    color: red;
+}
+
+.dash .three {
+    color: red;
+}
+.dash .four {
+    color: red;
+}
+.soldier {
+    font-size: xx-large;
+}
+.soldier .one {
+    color: black;
+}
+.soldier h4 .one:hover {
+    color: red;
+}
+.soldier .two {
+    color: red;
+}
+.soldier .three {
+    color: red;
+}
+.dev {
+    font-size: xx-large;
+}
+
+.dev .one {
+    color: black;
+}
+.dev h4 .one:hover {
+    color: red;
+}
+.dev .two {
+    color: red;
+}
+.dev .three {
+    color: red;
+}
+.dev .four {
+    color: red;
+}
+.mini {
+    font-size: xx-large;
+}
+.mini .one {
+    color: black;
+}
+.mini h4 .one:hover {
+    color: red;
+}
+.mini .two {
+    color: red;
+}
+.mini .three {
+    color: red;
+}
+.mango {
+    display:flex;
+    color: red;
+   margin-left: -200px;
+
+}
+.zoom {
+    color: black;
+
+}
+.sand {
+    color: black;
+}
+.orange {
+    border: 1px solid black;
+    width: 39vw;
+    margin-left: 300px;
+    height: 80px;
+    margin-top: 60px;
+}
+.orange .yam {
+    font-size:large;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.potato {
+    padding-left: 10px;
+    font-size:x-large;
+    display: inline;
+}
+
+a button {
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    display: inline;
+    
+}
+.potato input {
+    width: 350px;
+    height: 20px;
+    display: inline;
+    /* padding: 3px; */
+}
+
+/* 
+.manure {
+    border: 2px solid white;
+    background-color: wheat;
+    margin-top: 50px;
+    /* margin-right: 100px; */
+    /* height: 100px;
+} */
+
+
+/* .manure li {
+    /* padding: 200px; */
+/* } */ */
+
+
+.manure ul {
+    /* color: black;
+    margin-right: 100px;
+    display: inline; */
+    /* text-decoration: underline;
+    font-size: x-large;
+    padding-left: 20px; */
+    padding-right: 400px;
+    margin-left: 10px; 
+}
+
+table, tr, td {
+    margin-top: 60px;
+    border: 1px solid red;
+    border-collapse: collapse;
+    width: 100vw;
+    border: 5px;
+    text-decoration: underline;
+    height: 50px;
+    background-color: wheat;
+    /* margin-right: 100px; */
+    /* margin-right: 900px;
+    padding-right: 200px; */
+
+    /* margin-top: 100px;
+    margin-left: 20px; */
+    
+}
+tr {
+    font-size: larger;
+    /* margin-left: 200px;
+    margin-right: 10px; */
+}
+.anchor {
+    border: 2px solid ;
+    border-collapse: collapse;
+    border: 5px;
+    font-size: large;
+    width: 100vw;
+    height: 50px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.anchor a {
+    color: red;
+    text-decoration: underline;
+}   
